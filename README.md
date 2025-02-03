@@ -1,8 +1,26 @@
-# React + Vite
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> React: Estilizando componentes com TailWind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desenvolvido durante o curso de estilização de componentes para React com Tailwind, na Escola de Tecnologia Alura como parte da formação em React.
 
-Currently, two official plugins are available:
+## Principais Tópicos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `Compreensão sobre como funciona a estilização com TailwindCSS`
+- `Criação de componentes React estilizados e extensíveis`
+- `Desenvolvimento de padrão de design flexível e performático`
+- `Utilização de animações e transições`
+- `Desenvolvimento de aplicações mobile first e responsivas por padrão`
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `React`
+- `Tailwind`
+- `Create React App`
+- `GitHub`
+
+E muito mais!
+
+## 🛠️ Abrir e rodar o projeto
+
+Para abrir e rodar o projeto, execute `npm install` para instalar as dependências e `npm start` para inicar a aplicação.
+
+Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
